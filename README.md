@@ -9,9 +9,9 @@ users, add a post, delete a post, like and comment on the other user's post.
 The purpose of this social media webapp is that it allows the users to express their views on topic, allows them to socialise with other users.
 Discuss on common topic of interests with other users. Thereby, serving as a common ground for expression, support as well as rebuttal to views of others.
 
-## Use Case Diagram
+## Use Case Diagram:
 
-## Screenshots
+## Screenshots:
 
 ## Built With
 * Express.js - Backend web framework
