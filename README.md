@@ -1,16 +1,16 @@
-###Social Media Web-app
+## Social Media Web-app
 
-##Problem Statement:
+### Problem Statement:
 Social Media connects the a person to the rest of the world. Thereby, shrinking the world in size as anybody can be contacted with a click.
 This Social Media web-app allows the user to create a profile. After creating a profile and authenticating themselves, they can follow other 
 users, add a post, delete a post, like and comment on the other user's post.
 
-##Motivation:
+## Motivation:
 The purpose of this social media webapp is that it allows the users to express their views on topic, allows them to socialise with other users.
 Discuss on common topic of interests with other users. Thereby, serving as a common ground for expression, support as well as rebuttal to views of others.
 
 
-##Built With
+## Built With
 Express.js - Backend web framework
 JSON Web Token - A standard to securely authenticate HTTP requests
 Material-UI - UI library for React
@@ -21,7 +21,7 @@ React - JavaScript library for building user interfaces
 Redux - JavaScript library to help better manage application state
 
 
-###Features:
+### Features:
 User is able to create an account so that they can log in and authenticate themselves.
 User is able to log in so that they can view their home feed.
 User is able to view posts so that they know what people they're following are up to.
