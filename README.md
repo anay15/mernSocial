@@ -10,6 +10,8 @@ The purpose of this social media webapp is that it allows the users to express t
 Discuss on common topic of interests with other users. Thereby, serving as a common ground for expression, support as well as rebuttal to views of others.
 
 ## Use Case Diagram:
+![image](https://user-images.githubusercontent.com/72351252/206455515-1d2e8be0-48fa-4872-8178-ab5a1a91d032.png)
+
 
 ## Screenshots:
 
